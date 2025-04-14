@@ -12,8 +12,8 @@ export default function Home() {
         <p style={{ color: '#aaa' }}>Forbidden Allure & Cybernetic Embrace Universe</p>
       </header>
       <main style={{ padding: '2rem' }}>
-        <h2>Главная</h2>
-        <p>Добро пожаловать в аниме-комнату Nagotoria с постерами на стенах.</p>
+        <h2>Home</h2>
+        <p>Welcome to the Nagotoria anime studio — where forbidden passion meets psychological tension. Dive into the universe of art, stories, and cinematic moments.</p>
       </main>
     </div>
   );
