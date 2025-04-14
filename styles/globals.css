@@ -1,0 +1,10 @@
+
+body {
+  background-image: url('/art/art1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+}
